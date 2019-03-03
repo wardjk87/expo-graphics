@@ -56,7 +56,7 @@
     "expo": "^31.0.0"
   },
   "dependencies": {
-    "expo-gl": "^2.0.0"
+    "expo-gl": ^3.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
